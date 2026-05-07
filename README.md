@@ -1,6 +1,6 @@
 <div align="center">
 
-![PORTIFLOW](assets/image.png)
+![PORTIFLOW](assets/947f55bfe87735230b3063898f7f71e.png)
 
 # PORTIFLOW
 
